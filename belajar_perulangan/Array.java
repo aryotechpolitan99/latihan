@@ -17,6 +17,5 @@ public class Array{
 		for(int index=0; index <= panjangGanjil -1; index++){
 			System.out.println(ganjil);
 		}
-		}
 	}
 }
